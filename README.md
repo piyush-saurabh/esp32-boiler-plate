@@ -23,3 +23,6 @@ Go to .vscode/settings.json and modify
 #### VSCode Tasks
 * Press Ctrl+Shift+P to open command palette in VSCode 
 * Type 'Run tasks' and press enter. This will now display all the tasks configured in .vscode/tasks.json
+
+## Reference
+For more instruction, refer https://github.com/makercrew/esp_prog_vscode_debug
