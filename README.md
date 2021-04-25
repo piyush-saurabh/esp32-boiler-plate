@@ -1,6 +1,6 @@
 # ESP32 Boiler Plate
 This repository contains the boiler plate or getting started code for ESP32 using ESP-IDF in VSCode. This repository comes with the support for: 
-* JTAG debugging using [ESP-Prog] in VSCode(https://robu.in/product/esp-prog-development-board-jtag-debug-program-downloader-compatible-for-esp32/)
+* JTAG debugging using [ESP-Prog](https://robu.in/product/esp-prog-development-board-jtag-debug-program-downloader-compatible-for-esp32/) in VSCode
 * Tasks for building firmware
 * Task for flashing and monitoring firmware
 
