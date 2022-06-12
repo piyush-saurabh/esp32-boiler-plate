@@ -75,5 +75,17 @@
             "command": "${config:esp_idf_command} erase_flash",
             "problemMatcher": []
         },
+        {
+            "label": "Open Menu Config",
+            "type": "shell",
+            "command": "${config:esp_idf_command} menuconfig",
+            "options": {
+                "env": {
+                    "PATH": "${config:esp_extra_paths}"
+                }
+            },
+            "problemMatcher": []
+        },
+        
     ]
 }
