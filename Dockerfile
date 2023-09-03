@@ -34,7 +34,7 @@ RUN ["dash", "-c", "\
 ENV PATH="/home/${USER}/.local/bin:${PATH}"
 
 # Step 1. Install Prerequisites
-# https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-setup.html#install-prerequisites
+# https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-macos-setup.html
 RUN ["dash", "-c", "\
     apt-get update --quiet \
  && apt-get install --assume-yes --no-install-recommends --quiet \
@@ -46,7 +46,6 @@ RUN ["dash", "-c", "\
      git \
      gperf \
      libffi-dev \
-     libpython2.7 \
      libssl-dev \
      libusb-1.0-0 \
      nano \
