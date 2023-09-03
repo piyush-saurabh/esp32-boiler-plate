@@ -9,6 +9,11 @@ This repository contains the boiler plate or getting started code for ESP32 usin
 ```bash
 git clone https://github.com/piyush-saurabh/esp32-boiler-plate.git
 ```
+
+#### Open this repository in dev container
+* Press `Ctrl+Shift+P`
+* Type "Open Folder in Container" and select the option "Dev Containers: Open Folder in Container..."
+
 #### Search and replace 'boiler-plate' with your project name.
 
 Replace the file at 2 instances
@@ -21,7 +26,7 @@ Go to .vscode/settings.json and modify
 * Port on which ESP32 board is commected
 
 #### VSCode Tasks
-* Press Ctrl+Shift+P to open command palette in VSCode 
+* Press `Ctrl+Shift+P` to open command palette in VSCode 
 * Type 'Run tasks' and press enter. This will now display all the tasks configured in .vscode/tasks.json
 
 ## Reference
