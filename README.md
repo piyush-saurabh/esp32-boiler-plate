@@ -12,7 +12,7 @@ git clone https://github.com/piyush-saurabh/esp32-boiler-plate.git
 
 #### Open this repository in dev container
 * Press `Ctrl+Shift+P`
-* Type "Open Folder in Container" and select the option "Dev Containers: Open Folder in Container..."
+* Type "Open Folder in Container" and select the option "**Dev Containers: Open Folder in Container...**"
 
 #### Search and replace 'boiler-plate' with your project name.
 
