@@ -11,6 +11,8 @@ git clone https://github.com/piyush-saurabh/esp32-boiler-plate.git
 ```
 
 #### Open this repository in dev container
+Note: Before running the below command, make sure the ESP32 is connected to the system and pointing to the correct COM port in the file `.devcontainer.json`. If ESP32 is not connected, it will result in an error.
+
 * Press `Ctrl+Shift+P`
 * Type "Open Folder in Container" and select the option "**Dev Containers: Open Folder in Container...**"
 
